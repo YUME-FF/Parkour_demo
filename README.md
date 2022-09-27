@@ -5,7 +5,7 @@
 
 First, you will be in the loading scene.
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/Loading.png" width="600px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/Loading.png" width="600px">
 
 Then, you wil see the menu scene.
 The display effect of the menu interface will change with the time in real life. Of course, it is with great music! There are three display effects in total: 
@@ -26,18 +26,18 @@ If you choose start game, there are two choice:
 
 (Due to the lack of extra screenwriting work, the two modes are set to be the same)
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/GameMode.png" width="600px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/GameMode.png" width="600px">
 
 Then loading game scene:
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/GameLoading.png" width="600px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/GameLoading.png" width="600px">
 
 ### 3. Gaming
 
 Our game interface consists of a minimap and a map from the main perspective of the game.The game sets up basic jump, slide, turn left and turn right operationsm,  where the left and right turn operations are based on rotating the entire map.
 
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/gaming.png" width="600px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/gaming.png" width="600px">
 
 ## Open source
 
@@ -48,9 +48,9 @@ Here are some examples:
 
 We modeling some characters and completed basic coloring, adding bones and basic motion editing, including jumping, sliding, idling, walking, running, and more.
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/Anney_walking.gif" width="500px"><img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/AnneyShort_walking.gif" width="500px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/Anney_walking.gif" width="500px"><img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/AnneyShort_walking.gif" width="500px">
 
-<img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/dress_bone.gif" width="500px"><img src="https://github.com/YUME-FF/Parkour_demo/blob/main/preview/dress_frame.gif" width="500px">
+<img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/dress_bone.gif" width="500px"><img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/dress_frame.gif" width="500px">
 
 ### 2. Menu scene
 
