@@ -8,9 +8,8 @@ First, you will be in the loading scene.
 <img src="https://github.com/YUME-FF/Parkour_demo/blob/master/preview/Loading.png" width="600px">
 
 Then, you wil see the menu scene.
-The display effect of the menu interface will change with the time in real life. Of course, it is with great music! There are three display effects in total: 
+The display effect of the menu interface will change with the time in real life. Of course, it is with great music! There are two display effects in total: 
 - Day
-- Dusk
 - Night
 
 Here is the Nigh effect:
