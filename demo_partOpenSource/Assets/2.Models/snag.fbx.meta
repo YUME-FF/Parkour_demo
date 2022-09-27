@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 69895d799a2031647b76131c77393892
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: banana1
+    100002: banana2
+    100004: jar1
+    100006: jar2
+    100008: jar3
+    100010: jar4
+    100012: jar5
+    100014: jar6
+    100016: jar7
+    100018: jar8
+    100020: orange1
+    100022: orange2
+    100024: //RootNode
+    100026: watermelon_peel
+    100028: watermelon_peel2
+    400000: banana1
+    400002: banana2
+    400004: jar1
+    400006: jar2
+    400008: jar3
+    400010: jar4
+    400012: jar5
+    400014: jar6
+    400016: jar7
+    400018: jar8
+    400020: orange1
+    400022: orange2
+    400024: //RootNode
+    400026: watermelon_peel
+    400028: watermelon_peel2
+    2100000: melon_3
+    2100002: melon_4
+    2100004: melon_1
+    2100006: melon_2
+    2100008: melon_5
+    2100010: melon_3.001
+    2100012: melon_4.001
+    2100014: melon_1.001
+    2100016: melon_2.001
+    2100018: melon_5.001
+    2100020: jar_side
+    2100022: jar_on
+    2100024: jar_on2
+    2100026: jar_side.001
+    2100028: jar_on.001
+    2100030: jar_on2.001
+    2100032: jar_side.002
+    2100034: jar_on.002
+    2100036: jar_on2.002
+    2100038: jar_side.003
+    2100040: jar_on.003
+    2100042: jar_on2.003
+    2100044: jar_side.007
+    2100046: jar_on.007
+    2100048: jar_on2.007
+    2100050: jar_side.006
+    2100052: jar_on.006
+    2100054: jar_on2.006
+    2100056: jar_side.005
+    2100058: jar_on.005
+    2100060: jar_on2.005
+    2100062: jar_side.004
+    2100064: jar_on.004
+    2100066: jar_on2.004
+    2100068: orange_down
+    2100070: orange_on
+    2100072: orange_down.001
+    2100074: orange_on.001
+    2100076: banana_on
+    2100078: banana_on.001
+    2300000: banana1
+    2300002: banana2
+    2300004: jar1
+    2300006: jar2
+    2300008: jar3
+    2300010: jar4
+    2300012: jar5
+    2300014: jar6
+    2300016: jar7
+    2300018: jar8
+    2300020: orange1
+    2300022: orange2
+    2300024: watermelon_peel
+    2300026: watermelon_peel2
+    3300000: banana1
+    3300002: banana2
+    3300004: jar1
+    3300006: jar2
+    3300008: jar3
+    3300010: jar4
+    3300012: jar5
+    3300014: jar6
+    3300016: jar7
+    3300018: jar8
+    3300020: orange1
+    3300022: orange2
+    3300024: watermelon_peel
+    3300026: watermelon_peel2
+    4300000: watermelon_peel
+    4300002: watermelon_peel2
+    4300004: jar1
+    4300006: jar2
+    4300008: jar3
+    4300010: jar4
+    4300012: jar5
+    4300014: jar6
+    4300016: jar7
+    4300018: jar8
+    4300020: orange1
+    4300022: orange2
+    4300024: banana1
+    4300026: banana2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

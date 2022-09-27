@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1.Scene/Endless/GameDay.unity
+  isLoaded: 1
+  isActive: 1
